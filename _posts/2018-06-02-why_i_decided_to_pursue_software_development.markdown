@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Pursue Software Development"
-date:       2018-06-02 06:48:31 +0000
+date:       2018-06-02 02:48:32 -0400
 permalink:  why_i_decided_to_pursue_software_development
 ---
 
