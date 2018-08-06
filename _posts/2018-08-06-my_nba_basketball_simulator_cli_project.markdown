@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My NBA Basketball Simulator CLI Project"
-date:       2018-08-06 23:24:03 +0000
+date:       2018-08-06 19:24:04 -0400
 permalink:  my_nba_basketball_simulator_cli_project
 ---
 
