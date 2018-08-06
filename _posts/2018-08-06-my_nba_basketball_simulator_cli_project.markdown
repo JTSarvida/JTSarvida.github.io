@@ -10,7 +10,7 @@ Hello everyone! This is the first of my portfolio projects here at Flatiron Scho
 
 So, I have my idea, but where do I go from there?  I've never used an ide outside of the Learn IDE, which wasn't cooperating with me at the time.  I decided to go with Microsoft Visual Studio Code, with a little help of googling "What's the best IDE". Setting up the IDE was a little confusing, but soon enough I was ready code...except I've never started a project from scratch before.  What do I do?  Thankfully, Avi had his Building a CLI Gem video that was very helpful.  In this video, it layed out a general outline of how to begin/build my project.  The steps I got from it were:  Discover how you want your project to look, build project with fake data, figure out what selectors to use, replace fake data with real data, find out why your code is breaking, finish project.  I'll be going over my experience in each of these steps during this project, and discuss some steps I didn't expect to be there.
 
-## Look
+# Look
 
 The first thing I wanted to take into account when planning this project was what the user would see.  I felt as though it was important to make sure that whatever information was presented to the user was understandable at first glance.  I wanted to limit any confusion that the user may have when first loading up the project.  This was what I ultimately come up with in regards to how I wanted my Basketball Simulator to look:
 
