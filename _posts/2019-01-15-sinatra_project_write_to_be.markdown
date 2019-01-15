@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Project: Write to Be"
-date:       2019-01-15 13:00:51 +0000
+title:      "Sinatra Project: Write to Be pt. 1"
+date:       2019-01-15 08:00:52 -0500
 permalink:  sinatra_project_write_to_be
 ---
 
